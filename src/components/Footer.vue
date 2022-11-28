@@ -1,6 +1,6 @@
 <template>
     <div class="footer">
-        © 2022 BookStore - B1910454
+        © 2022 BookStore - ThinhQuach - B1910454
     </div>
 </template>
 
